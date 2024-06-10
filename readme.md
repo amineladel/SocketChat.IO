@@ -1,6 +1,3 @@
-### README.md
-
-```markdown
 # SocketChat.IO
 
 SocketChat.IO est une application de chat en temps réel construite avec Socket.IO et une interface utilisateur moderne inspirée du style Discord.
