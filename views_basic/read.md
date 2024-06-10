@@ -1,0 +1,1 @@
+Les deux fichiers de ce dossier sont la version basique des vues.
